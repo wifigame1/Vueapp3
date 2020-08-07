@@ -2,7 +2,7 @@
   <!-- App.vue -->
 
   <v-app>
-    
+    <!-- เมนูด้านข้าง -->
       <v-navigation-drawer app>
       <v-list-item>
         <v-list-item-content>
@@ -63,6 +63,7 @@
 export default {
   data() {
     return {
+      // ไอคอนเมนู
       items: [
           { title: 'Dashboard', icon: 'mdi-view-dashboard' },
           { title: 'Photos', icon: 'mdi-image' },
