@@ -1,6 +1,6 @@
 <template>
     <v-container>
-      เกี่ยวกับเรา
+      ข้อมูลสินค้า
     </v-container>
 </template>
 
