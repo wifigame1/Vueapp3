@@ -41,7 +41,7 @@
 
     <v-row>
       <v-col cols="12">
-        <v-card class="mx-auto text-center" color="pink" dark >
+        <v-card class="mx-auto text-center" color="pink" dark>
           <v-card-text>
             <v-sheet color="rgba(0, 0, 0, .12)">
               <v-sparkline
@@ -50,7 +50,6 @@
                 height="100"
                 padding="24"
                 line-width="1"
-
                 stroke-linecap="round"
                 smooth
               >
@@ -76,11 +75,9 @@
 
 <script>
 export default {
-      data: () => ({
-      value: [423,446,675,510,590,610,760,446,675,510,590,],
-    }),
-
-
+  data: () => ({
+    value: [423, 446, 675, 510, 590, 610]
+  })
 };
 </script>
 

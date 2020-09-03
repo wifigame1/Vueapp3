@@ -1,15 +1,11 @@
 <template>
-    <v-container>
-      ข้อมูลสินค้า
-    </v-container>
+  <v-container>
+    รายงานสินค้า
+  </v-container>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
-<style>
-
-</style>
+<style></style>
