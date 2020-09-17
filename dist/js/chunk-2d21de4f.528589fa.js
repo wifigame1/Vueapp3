@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21de4f"],{d2f1:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("v-container",[n._v(" รายงานสินค้า ")])},c=[],r={},u=r,l=t("2877"),o=t("6544"),i=t.n(o),s=t("a523"),d=Object(l["a"])(u,a,c,!1,null,null,null);e["default"]=d.exports;i()(d,{VContainer:s["a"]})}}]);
-//# sourceMappingURL=chunk-2d21de4f.528589fa.js.map
